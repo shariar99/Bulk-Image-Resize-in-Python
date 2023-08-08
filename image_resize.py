@@ -37,8 +37,8 @@ def resize_images(input_folder, output_folder, max_width, max_height):
 
 if __name__ == "__main__":
    
-    input_folder = r"C:/Users/SHARIAR/OneDrive/Desktop/Python/New folder/INPUT"
-    output_folder = r"C:/Users/SHARIAR/OneDrive/Desktop/Python/New folder/OUTPUT"
+    input_folder = "path/to/input/folder"  # Replace with the path to your input folder
+    output_folder = "path/to/output/folder"  # Replace with the path to your output folder
     max_width = 32  
     max_height = 32  
 
